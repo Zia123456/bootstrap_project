@@ -6,8 +6,8 @@ this repo created to contain bootstrap project files.
 ## Live Demo (if available)
 Live Demo Link
 ## Getting Started
-Simply you can open index.html file with any browser and, you will see my design of my portfolio.
-for opennig index.html go to zia_profile directory, find index.html, right click on it, click on open with and, click on any browser which is available on your pc/labtop. 
+Simply you can open index.html file with any browser and, you will see my design of my portfolio with Bootstap-5.
+for opennig index.html go to bootstrap-project directory, find index.html, right click on it, click on open with and, click on any browser which is available on your pc/labtop. 
 ### Prerequisites
 ### Browser
 ## Author
